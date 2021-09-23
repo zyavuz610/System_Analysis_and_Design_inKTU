@@ -20,7 +20,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | Hafta | Ders İçeriği                                                  | Kaynak    |
 | ----- | ------------                                                  | ------    |
 | 1     | Sistem Geliştirme Ortamı (The Systems Development Environment)   | SDLC [[1][k1]] [[2][k2]], [Waterfall][k3], [CASE][k4], Agile, eXtreme, OOAD(RUP)  |
-| 2     | Yazılım Kaynakları (The Origins of Software)                                   |  |
+| 2     | Yazılım Kaynakları (The Origins of Software)                     | Outsorcing, RFP, Reuse of Code |
 | 3     | Bilgi Sistemi Projelerini Yönetmek                                    |   |
 | 4     | Sistem Geliştirme Projelerini Belirleme ve Seçme                                           |   |
 | 5     | Sistem Geliştirme Projelerini Başlatma ve Planlama                                        |   |
