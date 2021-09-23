@@ -19,7 +19,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 
 | Hafta | Ders İçeriği                                                  | Kaynak    |
 | ----- | ------------                                                  | ------    |
-| 1     | Sistem Geliştirme Ortamı (The Systems Development Environment)   | SDLC [[1][k1]] [[2][k2]], [Waterfall][k3], CASE, Agile, eXtreme, OOAD(RUP)  |
+| 1     | Sistem Geliştirme Ortamı (The Systems Development Environment)   | SDLC [[1][k1]] [[2][k2]], [Waterfall][k3], [CASE][k4], Agile, eXtreme, OOAD(RUP)  |
 | 2     | Yazılım Kaynakları                                   |  |
 | 3     | Bilgi Sistemi Projelerini Yönetmek                                    |   |
 | 4     | Sistem Geliştirme Projelerini Belirleme ve Seçme                                           |   |
@@ -39,4 +39,5 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [k1]: https://medium.com/@denizkilinc/yaz%C4%B1l%C4%B1m-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-temel-a%C5%9Famalar%C4%B1-software-development-life-cycle-core-processes-197a4b503696
 [k2]: https://stringfixer.com/tr/System_development_life_cycle
 [k3]: http://www.aspmvcnet.com/tr/m/yazilim-muhendisligi/selale-yontemi-waterfall-modeli.html
+[k4]: https://www.tutorialspoint.com/software_engineering/case_tools_overview.htm
 [yklm21b]: https://docs.google.com/forms/d/e/1FAIpQLSeVb7crsM0E35dSx6o2uJEika3Fc1bXs7EDwsob69ZcGuSfRw/closedform
