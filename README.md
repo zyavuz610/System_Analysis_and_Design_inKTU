@@ -19,28 +19,23 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 
 | Hafta | Ders İçeriği                                                  | Kaynak    |
 | ----- | ------------                                                  | ------    |
-| 1     | İnternet tabanlı programlamaya giriş ve web sunucu kurulumu   | [Intro][0], [Wamp][1], [Xammp][2], [Replit][3], [W3schools][4] |
-| 2     | PHP'ye giriş ve değişkenler                                   | [Kaynak][5] |
-| 3     | PHP metinlerle çalışma                                        |   |
-| 4     | PHP Koşul ifadeleri                                           |   |
-| 5     | PHP Koşul ifadeleri                                           |   |
-| 6     | PHP Döngüler ve diziler                                       |   |
-| 7     | PHP Fonksiyonlar                                              |   |
-| 8     | PHP dosya ve eposta işlemleri                                 |   |
+| 1     | Sistem Geliştirme Ortamı   |  |
+| 2     | Yazılım Kaynakları                                   |  |
+| 3     | Bilgi Sistemi Projelerini Yönetmek                                    |   |
+| 4     | Sistem Geliştirme Projelerini Belirleme ve Seçme                                           |   |
+| 5     | Sistem Geliştirme Projelerini Başlatma ve Planlama                                        |   |
+| 6     | Sistem Gereksinimlerini Belirleme                                      |   |
+| 7     | Sistem Süreç Gereksinimleri Ek Yapılandırma                                            |   |
+| 8     | Sistem Veri Gereksinimlerini Yapılandırma                              |   |
 | 9     | Ara sınav                                                     |   |
-| 10    | PHP oturum işlemleri                                          |   |
-| 11    | PHP ve MySQL (Veri görüntüleme)                               |   |
-| 12    | PHP ve MySQL (Veri ekleme)                                    |   |
-| 13    | PHP ve MySQL (Veri güncelleme ve silme)                       |   |
-| 14    | Örnek Proje-Kullanıcı Kaydı ve Girişi                         |   |
-| 15    | Örnek Proje-Yönetim Paneli Oluşturma                          |   |
+| 10    | Veritabanları Tasarlama                                         |   |
+| 11    | Formları ve Raporları Tasarlama                             |   |
+| 12    | Arayüzleri ve Diyalogları Tasarlama                             |   |
+| 13    | Dağıtılmış ve İnternet Sistemleri Tasarlama                    |   |
+| 14    | Sistemin Sürdürülmesi                     |   |
+| 15    | Bilgi Sistemlerinin Bakımı                          |   |
 | 16    | Final Sınavı                                                  |   |
 
 
-[0]: https://github.com/zyavuz610/learnPHP_inKTU/blob/5205a5cd0d11bd5b0e659d6b9dc6d572a16759e8/images/browser2server.gif
-[1]: https://www.wampserver.com/en/
-[2]: https://www.apachefriends.org/tr/index.html
-[3]: https://replit.com
-[4]: https://www.w3schools.com/
-[5]: https://www.w3schools.com/php/php_variables.asp
+
 [yklm21b]: https://docs.google.com/forms/d/e/1FAIpQLSeVb7crsM0E35dSx6o2uJEika3Fc1bXs7EDwsob69ZcGuSfRw/closedform
