@@ -41,3 +41,4 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [k3]: http://www.aspmvcnet.com/tr/m/yazilim-muhendisligi/selale-yontemi-waterfall-modeli.html
 [k4]: https://www.tutorialspoint.com/software_engineering/case_tools_overview.htm
 [yklm21b]: https://docs.google.com/forms/d/e/1FAIpQLSeVb7crsM0E35dSx6o2uJEika3Fc1bXs7EDwsob69ZcGuSfRw/closedform
+[ders_not]: https://docs.google.com/document/d/1liqjasMVgD2V0Ys--VdjbnYajLefHFDtAWBVAfPzT0Q/edit?usp=sharing
