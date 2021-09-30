@@ -11,7 +11,7 @@ Dersin yüz yüze ve çevrimiçi şubeler şeklinde verilmektedir. Öğrencinin 
 **_Çevrim içi dersler ile yüzyüze dersler tamamen aynı içeriğe sahiptir._**
 
 * [2021-22 Güz Yarıyılı Yoklama Listesi][yklm21b]
-* Bu sayfanın web adresi için [tıklayın][https://github.com/zyavuz610/sad_inKTU/]
+* Bu sayfanın web adresi:[https://github.com/zyavuz610/sad_inKTU/]
 
 ---
 
