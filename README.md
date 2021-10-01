@@ -21,7 +21,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | Hafta | Ders İçeriği                                                  | Kaynak    |
 | ----- | ------------                                                  | ------    |
 |       |                                                               | [Ders Notları][ders_not] |
-| 1     | Sistem Geliştirme Ortamı (The Systems Development Environment)   | SDLC [[1][k1]] [[2][k2]], [Waterfall][k3], [CASE][k4], Agile, eXtreme, OOAD(RUP)  |
+| 1     | Sistem Geliştirme Ortamı (The Systems Development Environment)   | SDLC [[1][k1]] [[2][k2]], [Waterfall][k3], [CASE][k4], [Agile][ref-agile], eXtreme, OOAD(RUP)  |
 | 2     | Yazılım Kaynakları (The Origins of Software)                     | Outsourcing, RFP, Reuse of Code |
 | 3     | Bilgi Sistemi Projelerini Yönetmek                                    |   |
 | 4     | Sistem Geliştirme Projelerini Belirleme ve Seçme                                           |   |
@@ -44,3 +44,4 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [k4]: https://www.tutorialspoint.com/software_engineering/case_tools_overview.htm
 [yklm21b]: https://docs.google.com/forms/d/e/1FAIpQLSeVb7crsM0E35dSx6o2uJEika3Fc1bXs7EDwsob69ZcGuSfRw/closedform
 [ders_not]: https://docs.google.com/document/d/1liqjasMVgD2V0Ys--VdjbnYajLefHFDtAWBVAfPzT0Q/edit?usp=sharing
+[ref-agile]: https://www.acmagile.com/blog/agile-nedir
