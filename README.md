@@ -12,4 +12,4 @@ Bu depo, Karadeniz Teknik Üniversitesi'nde çeşitli bölümlerde verilen **Sis
 
 
   [ybs-21]: https://github.com/zyavuz610/System_Analysis_and_Design_inKTU/blob/main/ybs-sistem-analiz-ve-tasarim-2021.md
-  [ceng-21]:
+  [ceng-21]: https://github.com/zyavuz610/System_Analysis_and_Design_inKTU/blob/main/bil-muhendislik-tasarimi-2021.md
