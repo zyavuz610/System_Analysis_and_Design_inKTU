@@ -6,7 +6,7 @@ Bu depo, Karadeniz Teknik Üniversitesi'nde çeşitli bölümlerde verilen **Sis
 
 ## Bölümler ve Ders Sayfaları
 * **Yönetim Bilişim Sistemleri**
-  * [Sistem Analizi ve Tasarımı (2021)](ybs-21)
+  * [Sistem Analizi ve Tasarımı (2021)][ybs-21]
 * **Bilgisayar Mühendisliği**
   * [Mühendislik Tasarımı (2021)](ceng-21)
 
