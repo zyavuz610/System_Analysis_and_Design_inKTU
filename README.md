@@ -8,7 +8,7 @@ Bu depo, Karadeniz Teknik Üniversitesi'nde çeşitli bölümlerde verilen **Sis
 * **Yönetim Bilişim Sistemleri**
   * [Sistem Analizi ve Tasarımı (2021)][ybs-21]
 * **Bilgisayar Mühendisliği**
-  * [Mühendislik Tasarımı (2021)](ceng-21)
+  * [Mühendislik Tasarımı (2021)][ceng-21]
 
 
   [ybs-21]: https://github.com/zyavuz610/System_Analysis_and_Design_inKTU/blob/main/ybs-sistem-analiz-ve-tasarim-2021.md
