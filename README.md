@@ -17,13 +17,14 @@ Ders, yüz yüze ve çevrimiçi şubeler şeklinde verilmektedir. Öğrencinin d
 ## Haftalık Ders İçeriği
 Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 16 hafta olarak planlanmıştır.
 
-| Hafta | Ders İçeriği                                                 | Kaynaklar ve Açıklamalar    |
+| Hafta | Ders İçeriği                                                 | Kaynaklar ve Açıklamalar (Alt Konular)    |
 | :--   | :--                                                          | :--    |
 |       |                                                               | [Ders Notları][ders_not] |
 | 1     | Sistem Geliştirme Ortamı (The Systems Development Environment)   | SDLC [[1][k1]] [[2][k2]], [Waterfall][k3], [CASE][k4], [Agile][ref-agile], [eXtreme][ref-XP], OOAD(RUP)  |
 | 2     | Yazılım Kaynakları (The Origins of Software)                     | Outsourcing, RFP, Reuse of Code |
 | 3     | Bilgi Sistemi Projelerini Yönetmek                                    | Proje tanımları, Proje Yönetim aşamaları (başlatma, planlama ...), Gantt ve ağ diyagramları  |
-| 4     | Sistem Geliştirme Projelerini Belirleme ve Seçme                                           | Proje Yönetim aşamaları (... yürütme, sonlandırma), Görev süresi tahmini, Proje yönetim yazılımları |
+| 4     | Bilgi Sistemi Projelerini Yönetmek                                            | Proje Yönetim aşamaları (... yürütme, sonlandırma), Görev süresi tahmini, Proje yönetim yazılımları |
+| 4     | Sistem Geliştirme Projelerini Belirleme ve Seçme                         | Proje tanımlama ve seçim süreci, Stratejik Plan, bilgi sistemleri planlama süreci, elektronik ticaret uygulamaları |
 | 5     | Sistem Geliştirme Projelerini Başlatma ve Planlama                                        |   |
 | 6     | Sistem Gereksinimlerini Belirleme                                      |   |
 | 7     | Sistem Süreç Gereksinimleri Ek Yapılandırma                                            |   |
