@@ -19,7 +19,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 
 | Hafta | Ders İçeriği                                                 | Kaynaklar ve Açıklamalar (Alt Konular)    |
 | :--   | :--                                                          | :--    |
-|       |                                                               | [Ders Notları][ders_not] |
+|       |                                                               | [Ders Notları][ders_not] - [Özetçe][[ders-ozet] |
 | 1     | Sistem Geliştirme Ortamı (The Systems Development Environment)   | SDLC [[1][k1]] [[2][k2]], [Waterfall][k3], [CASE][k4], [Agile][ref-agile], [eXtreme][ref-XP], OOAD(RUP)  |
 | 2     | Yazılım Kaynakları (The Origins of Software)                     | Outsourcing, RFP, Reuse of Code |
 | 3     | Bilgi Sistemi Projelerini Yönetmek                                    | Proje tanımları, Proje Yönetim aşamaları (başlatma, planlama, yürütme, sonlandırma), Görev süresi tahmini, Proje yönetim yazılımları, Gantt ve ağ diyagramları |
@@ -45,3 +45,4 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [ders_not]: https://docs.google.com/document/d/1liqjasMVgD2V0Ys--VdjbnYajLefHFDtAWBVAfPzT0Q/edit?usp=sharing
 [ref-agile]: https://www.acmagile.com/blog/agile-nedir
 [ref-XP]: https://medium.com/@ahmetuyar/extreme-programming-xp-nedir-ddc003a515c4
+[ders_ozet]: https://docs.google.com/document/d/1x-0BA75XJTY0XNIc7AtInLDZ1UFtLD492tSfKi3i9mk/edit?usp=sharing
