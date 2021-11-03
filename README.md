@@ -26,7 +26,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 4     | Sistem Geliştirme Projelerini Belirleme ve Seçme        | Proje tanımlama ve seçim süreci, Stratejik Plan, bilgi sistemleri planlama süreci, elektronik ticaret uygulamaları |
 | 5     | Sistem Geliştirme Projelerini Başlatma ve Planlama      | Proje başlatma için gerekli eylemler, proje planlama için oluşturulması gereken belgeler tanıtımaktadır.  |
 | 6     | Sistem Gereksinimlerini Belirleme                         | Bireysel ve Grup Mülakat, Kullanıcılarla Görüşme, İş Belgelerinin Analizi, Ortak Uygulama Oturumu, İş Süreçlerini Yeniden Yapılanma, Agile Yaklaşım, Prototipleme  |
-| 7     | Sistem Süreç Gereksinimleri Ek Yapılandırma                                            |   |
+| 7     | Sistem Süreç Gereksinimleri Süreç Yapılandırma                                            |   |
 | 8     | Sistem Veri Gereksinimlerini Yapılandırma                              |   |
 | 9     | Ara sınav  (Yarıyıl içi çalışmalar)                                    |   |
 | 10    | Veritabanları Tasarlama                                         |   |
