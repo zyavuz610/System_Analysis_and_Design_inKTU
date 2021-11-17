@@ -27,7 +27,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 5     | Sistem Geliştirme Projelerini Başlatma ve Planlama      | Proje başlatma için gerekli eylemler, proje planlama için oluşturulması gereken belgeler tanıtımaktadır.  |
 | 6     | Sistem Gereksinimlerini Belirleme                         | Bireysel ve Grup Mülakat, Kullanıcılarla Görüşme, İş Belgelerinin Analizi, Ortak Uygulama Oturumu, İş Süreçlerini Yeniden Yapılanma, Agile Yaklaşım, Prototipleme  |
 | 7     | Sistem Süreç Gereksinimleri Yapılandırma              | Veri Akış Diyagramları  |
-| 8     | Sistem Veri Gereksinimlerini Yapılandırma                              |   |
+| 8     | Sistem Veri Gereksinimlerini Yapılandırma             | E-R Diyagramları, [Türkçe Kaynak][er-kaynak] |
 | 9     | Ara sınav  (Yarıyıl içi çalışmalar)                                    |   |
 | 10    | Veritabanları Tasarlama                                         |   |
 | 11    | Formları ve Raporları Tasarlama                             |   |
@@ -46,3 +46,4 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 [ref-agile]: https://www.acmagile.com/blog/agile-nedir
 [ref-XP]: https://medium.com/@ahmetuyar/extreme-programming-xp-nedir-ddc003a515c4
 [ders-ozet]: https://docs.google.com/document/d/1x-0BA75XJTY0XNIc7AtInLDZ1UFtLD492tSfKi3i9mk/edit?usp=sharing
+[er-kaynak]: https://medium.com/bilgisayar-ve-bili%C5%9Fim-teknolojileri-kul%C3%BCb%C3%BC/e-r-diyagram-9c2597e540c8
