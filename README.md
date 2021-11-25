@@ -28,7 +28,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 6     | Sistem Gereksinimlerini Belirleme                         | Bireysel ve Grup Mülakat, Kullanıcılarla Görüşme, İş Belgelerinin Analizi, Ortak Uygulama Oturumu, İş Süreçlerini Yeniden Yapılanma, Agile Yaklaşım, Prototipleme  |
 | 7     | Sistem Süreç Gereksinimleri Yapılandırma              | Veri Akış Diyagramları  |
 | 8     | Sistem Veri Gereksinimlerini Yapılandırma             | E-R Diyagramları, [Türkçe Kaynak][er-kaynak] |
-| 9     | Ara sınav  (Yarıyıl içi çalışmalar)                                    |   |
+| 9     | Ara sınav  (Yarıyıl içi çalışmalar)        | Proje çalışması verildi.  |
 | 10    | Veritabanları Tasarlama                                         |   |
 | 11    | Formları ve Raporları Tasarlama                             |   |
 | 12    | Arayüzleri ve Diyalogları Tasarlama                             |   |
