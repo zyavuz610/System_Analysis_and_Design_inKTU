@@ -9,8 +9,6 @@ Ders, yüz yüze ve çevrimiçi şubeler şeklinde verilmektedir. Öğrencinin d
 
 **_Çevrim içi dersler ile yüzyüze dersler tamamen aynı içeriğe sahiptir._**
 
-* [2021-22 Güz Yarıyılı Yoklama Listesi][yklm21b]
-* Bu sayfanın web adresi:[https://github.com/zyavuz610/System_Analysis_and_Design_inKTU]
 
 ---
 
@@ -19,7 +17,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 
 | Hafta | Ders İçeriği                                                 | Kaynaklar ve Açıklamalar (Alt Konular)    |
 | :--   | :--                                                          | :--    |
-|       |  [Ders Notları][ders_not]                                    |  [Özetçe][ders-ozet] |
+|       |  [Ders Notları][ders_not]                                    |  [Genişletilmiş Özet][ders-ozet] () |
 | 1     | Sistem Geliştirme Ortamı (The Systems Development Environment)   | SDLC [[1][k1]] [[2][k2]], [Waterfall][k3], [CASE][k4], [Agile][ref-agile], [eXtreme][ref-XP], OOAD(RUP)  |
 | 2     | Yazılım Kaynakları (The Origins of Software)                     | Outsourcing, RFP, Reuse of Code |
 | 3     | Bilgi Sistemi Projelerini Yönetmek                                    | Proje tanımları, Proje Yönetim aşamaları (başlatma, planlama, yürütme, sonlandırma), Görev süresi tahmini, Proje yönetim yazılımları, Gantt ve ağ diyagramları |
