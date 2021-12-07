@@ -30,7 +30,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 8     | Sistem Veri Gereksinimlerini Yapılandırma             | E-R Diyagramları, [Türkçe Kaynak][er-kaynak] |
 | 9     | Ara sınav  (Yarıyıl içi çalışmalar)        | Proje çalışması verildi. Teorik sınav yapılmayacak. |
 | 10    | Veritabanları Tasarlama      | Kavramsal E-R diyaramlarından fiziksel veritabanı tabloları tasarlama  |
-| 11    | Formları ve Raporları Tasarlama                             |   |
+| 11    | Formları ve Raporları Tasarlama  | Veri girişi için form, veri göstermek için rapor tasarlama  |
 | 12    | Arayüzleri ve Diyalogları Tasarlama                             |   |
 | 13    | Dağıtılmış ve İnternet Sistemleri Tasarlama                    |   |
 | 14    | Sistemin Sürdürülmesi                     |   |
