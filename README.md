@@ -30,7 +30,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 10    | Veritabanları Tasarlama      | Kavramsal E-R diyaramlarından fiziksel veritabanı tabloları tasarlama  |
 | 11    | Formları ve Raporları Tasarlama  | Veri girişi için form, veri göstermek için rapor tasarlama, uyulması gereken kurallar  |
 | 12    | Arayüzleri ve Diyalogları Tasarlama      | Kullanıcı ile etkileşim, İletişim ekranları tasarlama. 1) Komut Satırı, 2) Menü (navigasyon), 3) Nesne (Simge), 4) Form (veri giriş çıkış ekranları) 5) Diyalog |
-| 13    | Dağıtılmış ve İnternet Sistemleri Tasarlama                    |   |
+| 13    | Dağıtık Sistemler ve İnternet Sistemleri Tasarlama   | Dağıtık ve İnternet sistemlerini tanıma, geliştirilecek yazılım projesinde kullanılacak dağıtık sistemleri veya internet sistemlerini tasarlama |
 | 14    | Sistemin Sürdürülmesi                     |   |
 | 15    | Bilgi Sistemlerinin Bakımı                          |   |
 | 16    | Final Sınavı                                                  |   |
