@@ -4,20 +4,12 @@ Bu depo, Karadeniz Teknik Üniversitesi'nde çeşitli bölümlerde verilen **Sis
 
 ---
 
-## Yoklama ve Derslere Devam Durumu
-Ders, yüz yüze ve çevrimiçi şubeler şeklinde verilmektedir. Öğrencinin dersi verimli bir şekilde öğrenmesi için derse devam sorumluluğunu yerine getirmesi beklenir. Bu nedenle öğrencinin yüz yüze ya da çevrimiçi derslerde paylaşılan ders materyallerini takip etmesi önerilir. 
-
-**_Çevrim içi dersler ile yüzyüze dersler tamamen aynı içeriğe sahiptir._**
-
-
----
-
 ## Haftalık Ders İçeriği
 Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 16 hafta olarak planlanmıştır.
 
 | Hafta | Ders İçeriği                                                 | Kaynaklar ve Açıklamalar (Alt Konular)    |
 | :--   | :--                                                          | :--    |
-|       |  [Ders Notları][ders_not]                                    |  [Genişletilmiş Özet][ders-ozet] |
+|       |                                     |  [Genişletilmiş Özet][ders-ozet] |
 | 1     | Sistem Geliştirme Ortamı (The Systems Development Environment)   | SDLC [[1][k1]] [[2][k2]], [Waterfall][k3], [CASE][k4], [Agile][ref-agile], [eXtreme][ref-XP], OOAD(RUP)  |
 | 2     | Yazılım Kaynakları (The Origins of Software)                     | Outsourcing, RFP, Reuse of Code |
 | 3     | Bilgi Sistemi Projelerini Yönetmek                                    | Proje tanımları, Proje Yönetim aşamaları (başlatma, planlama, yürütme, sonlandırma), Görev süresi tahmini, Proje yönetim yazılımları, Gantt ve ağ diyagramları |
@@ -26,7 +18,7 @@ Ders içeriği 14 hafta ders, 1 hafta ara sınav ve 1 hafta final olmak üzere 1
 | 6     | Sistem Gereksinimlerini Belirleme                         | Bireysel ve Grup Mülakat, Kullanıcılarla Görüşme, İş Belgelerinin Analizi, Ortak Uygulama Oturumu, İş Süreçlerini Yeniden Yapılanma, Agile Yaklaşım, Prototipleme  |
 | 7     | Sistem Süreç Gereksinimleri Yapılandırma              | Veri Akış Diyagramları  |
 | 8     | Sistem Veri Gereksinimlerini Yapılandırma             | E-R Diyagramları, [Türkçe Kaynak][er-kaynak] |
-| 9     | Ara sınav  (Yarıyıl içi çalışmalar)        | Proje çalışması verildi. Teorik sınav yapılmayacak. |
+| 9     | Ara sınav  (Yarıyıl içi çalışmalar)        | Proje çalışması  |
 | 10    | Veritabanları Tasarlama      | Kavramsal E-R diyaramlarından fiziksel veritabanı tabloları tasarlama  |
 | 11    | Formları ve Raporları Tasarlama  | Veri girişi için form, veri göstermek için rapor tasarlama, uyulması gereken kurallar  |
 | 12    | Arayüzleri ve Diyalogları Tasarlama      | Kullanıcı ile etkileşim, İletişim ekranları tasarlama. 1) Komut Satırı, 2) Menü (navigasyon), 3) Nesne (Simge), 4) Form (veri giriş çıkış ekranları) 5) Diyalog |
